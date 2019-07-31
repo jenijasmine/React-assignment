@@ -1,0 +1,79 @@
+{
+  "posts": [
+    {
+      "ques_id": 1001,
+      "question": "what is pure functions"
+    },
+    {
+      "ques_id": 1002,
+      "question": "define functions"
+    },
+    {
+      "ques_id": 1003,
+      "question": "what are random functions"
+    },
+    {
+      "ques_id": 1004,
+      "question": "define variables"
+    },
+    {
+      "ques_id": 1004,
+      "question": "define variables"
+    }
+  ],
+  "answers":[
+    {
+      "ans_id":101,
+      "ques_id":1001,
+      "user_id":1,
+      "answer":"function is a predefined block of codes"
+    },
+    {
+      "ans_id":102,
+      "ques_id":1003,
+      "user_id":2,
+      "answer":"aaaaaaaaaassssssssssssddddddd"
+    },
+    {
+      "ans_id":103,
+      "ques_id":1001,
+      "user_id":4,
+      "answer":"aawwwwwwwwssssssssssddd"
+    },
+    {
+      "ans_id":104,
+      "ques_id":1002,
+      "user_id":2,
+      "answer":"aqwweeee"
+    },
+    {
+      "ans_id":105,
+      "ques_id":1005,
+      "user_id":2,
+      "answer":"this is ans"
+    }
+  ],
+  "users": [
+    {
+      "user_id": 1,
+      "userName": "jenifa"
+    },
+    {
+      "user_id": 2,
+      "userName": "upanya"
+    },
+    {
+      "user_id": 3,
+      "userName": "varun"
+    },
+    {
+      "user_id": 4,
+      "userName": "Sahil"
+    },
+    {
+      "user_id": 5,
+      "userName": "Neel"
+    }
+    
+  ] 
+}
